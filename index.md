@@ -243,12 +243,27 @@ Edit the text to match who can attend the workshop. For instance:
 <hr/>
 
 {% comment%}
+REGISTRATION
+{% endcomment %}
+<h2 id="registration">Registration</h2>
+
+<p>
+Interested? Sign up!
+</p>
+<p class="text-center">
+  <a href="https://2aksjfk.momice.events">
+    <button type="button" class="btn btn-info">I want to sign up</button>
+  </a>
+</p>
+<hr/>
+
+{% comment%}
 CODE OF CONDUCT
 {% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+Everyone who participates in Carpentries activities is required to conform to the <a href="https://2aksjfk.momice.events/page/860397">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
 <p class="text-center">
