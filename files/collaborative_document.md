@@ -1,5 +1,5 @@
-# Collaborative Document
-YYYY-MM-DD Workshop Type 
+# Collaborative Document. Day x, May xth
+2021-05-17-swc-R-nlesc
 
 Welcome to The Workshop Collaborative Document 
  
@@ -50,24 +50,23 @@ you can ask questions in the document or chat window and helpers will try to hel
 
 ## 🖥 Workshop website 
 
-[link] 
-
+[link](https://escience-academy.github.io/2021-05-17-swc-R-nlesc/)
 
 🛠 Setup 
-[link] 
+[link](https://escience-academy.github.io/2021-05-17-swc-R-nlesc/#setup)
 
-Download fieles
-[link]
+Download files
+[link](https://escience-academy.github.io/2021-05-17-swc-R-nlesc/#setup)
  
 
 ## 👩‍🏫👩‍💻🎓 Instructors 
 
-Instructor 1, Instructor 2 
+Pablo Rodríguez-Sánchez, Alessio Sclocco, Barbara Vreede
  
 
 ## 🧑‍🙋 Helpers 
 
-Helper 1, Helper 2 
+Lieke de Boer
  
 
 ## 👩‍💻👩‍💼👨‍🔬🧑‍🔬🧑‍🚀🧙‍♂️🔧 Roll Call 
