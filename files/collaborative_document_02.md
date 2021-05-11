@@ -12,15 +12,15 @@ https://creativecommons.org/licenses/by/4.0/
 
  ----------------------------------------------------------------------------
 
-This is the Document for today:[link]
+This is the Document for today: [link](https://tinyurl.com/2021-05-17-swc-R-nlesc-02)
 
-Collaborative Document day 1: [link]
+Collaborative Document day 1: [link](https://tinyurl.com/2021-05-17-swc-R-nlesc-01)
 
-Collaborative Document day 2: [link]
+Collaborative Document day 2: [link](https://tinyurl.com/2021-05-17-swc-R-nlesc-02)
 
-Collaborative Document day 3: [link]
+Collaborative Document day 3: [link](https://tinyurl.com/2021-05-17-swc-R-nlesc-03)
 
-Collaborative Document day 4: [link]
+Collaborative Document day 4: [link](https://tinyurl.com/2021-05-17-swc-R-nlesc-04)
 
 
 
