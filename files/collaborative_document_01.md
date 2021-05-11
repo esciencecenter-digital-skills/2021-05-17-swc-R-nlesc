@@ -1,4 +1,4 @@
-# Collaborative Document. Day x, May xth
+# Collaborative Document. Day 1, May 17th
 2021-05-17-swc-R-nlesc
 
 Welcome to The Workshop Collaborative Document
@@ -86,43 +86,6 @@ Day 1, May 17th
 | 11:30  | Coffee break                                     |
 | 11:45  | Automating Tasks with the Unix Shell (Continued) |
 | 12:45  | Wrap-up                                          |
-| 13:00  | END                                              |
-
-Day 2, May 18th
-|        |                                                  |
-|:-------|:-------------------------------------------------|
-| 09:00  | Version Control with Git                         |
-| 10:15  | Coffee break                                     |
-| 10:30  | Version Control with Git (Continued)             |
-| 11:30  | Coffee break                                     |
-| 11:45  | Version Control with Git (Continued)             |
-| 12:45  | Wrap-up                                          |
-| 13:00  | END                                              |
-
-Day 3, May 19th
-|        |                                                  |
-|:-------|:-------------------------------------------------|
-| 09:00  | Introduction to R and RStudio                    |
-| 10:00  | Data structures                                  |
-| 10:15  | Coffee break                                     |
-| 10:30  | Data structures (Continued)                      |
-| 11:00  | Exploring data frames                            |
-| 11:30  | Coffee break                                     |
-| 11:45  | Data frame manipulation with dplyr               |
-| 12:45  | Wrap-up                                          |
-| 13:00  | END                                              |
-
-Day 4, May 20th
-|        |                                                  |
-|:-------|:-------------------------------------------------|
-| 09:00  | Graphics with ggplot2                            |
-| 10:00  | Functions explained                              |
-| 10:15  | Coffee break                                     |
-| 10:30  | Functions explained (continued)                  |
-| 11:30  | Coffee break                                     |
-| 11:45  | Producing reports with knitr                     |
-| 12:30  | Wrap-up and post-workshop                        |
-| Survey |                                                  |
 | 13:00  | END                                              |
 
 
