@@ -76,7 +76,7 @@ Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / ba
 
 ## 🗓️ Agenda
 
-Day 1
+Day 1, May 17th
 |        |                                                  |
 |:-------|:-------------------------------------------------|
 | Before | Welcome and pre-workshop survey                  |
@@ -88,7 +88,7 @@ Day 1
 | 12:45  | Wrap-up                                          |
 | 13:00  | END                                              |
 
-Day 2
+Day 2, May 18th
 |        |                                                  |
 |:-------|:-------------------------------------------------|
 | 09:00  | Version Control with Git                         |
@@ -99,7 +99,7 @@ Day 2
 | 12:45  | Wrap-up                                          |
 | 13:00  | END                                              |
 
-Day 3
+Day 3, May 19th
 |        |                                                  |
 |:-------|:-------------------------------------------------|
 | 09:00  | Introduction to R and RStudio                    |
@@ -112,7 +112,7 @@ Day 3
 | 12:45  | Wrap-up                                          |
 | 13:00  | END                                              |
 
-Day 4
+Day 4, May 20th
 |        |                                                  |
 |:-------|:-------------------------------------------------|
 | 09:00  | Graphics with ggplot2                            |
